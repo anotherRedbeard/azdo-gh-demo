@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/FDPO-25-ORG/6b5fa99b-5439-47b8-b67d-dcdf5bf4971e/13eeaf2c-01e0-403f-825d-35f618c1aa04/_apis/work/boardbadge/8550ffc9-6d0c-4c3b-b8f3-4396757f82c8)](https://dev.azure.com/FDPO-25-ORG/6b5fa99b-5439-47b8-b67d-dcdf5bf4971e/_boards/board/t/13eeaf2c-01e0-403f-825d-35f618c1aa04/Microsoft.RequirementCategory)
