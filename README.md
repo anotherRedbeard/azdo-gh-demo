@@ -1,5 +1,7 @@
 # Azure DevOps & GitHub Demo
 
+Hello World!
+
 This repository demonstrates integration between Azure DevOps and GitHub, showcasing work item synchronization and automated workflows.
 
 ## Repository Structure
